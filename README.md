@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Arya Jambhore
 
-<!--
-**Aryajambhore/Aryajambhore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI major @ Macquarie University | Passionate about Machine Learning, NLP, and AI + Finance  
+🔧 Tools: Python, Scikit-learn, PyTorch, Hugging Face, Streamlit, SQL, OpenCV  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- 🔢 [Digit Recognizer App](https://github.com/Aryajambhore/digit-classifier) – Draw digits + predict using ML
+- 🚢 [Titanic Survival Predictor](https://github.com/Aryajambhore/titanic-ml-classifier) – Classification with sklearn
+- 💬 [Linear Regression From Scratch](https://github.com/Aryajambhore/Linear-regression-from-scratch) – Pandas and numpy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Goals
+- Deep Learning with PyTorch
+- NLP projects using Transformers
+- Build AI portfolio site
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/arya-jambhore) | aryajambhore07@gmail.com

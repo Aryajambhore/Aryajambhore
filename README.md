@@ -33,7 +33,7 @@ I like taking messy datasets, finding the story in them, and building models tha
 | 📰 [**Fake News Detector**](https://github.com/Aryajambhore/Fake-News-detector) | Classifies news articles as real or fake using TF-IDF features and a Passive Aggressive Classifier (99.5% accuracy) | Python, scikit-learn, NLP |
 | 🚢 [**Titanic Survival Predictor**](https://github.com/Aryajambhore/titanic-ml-classifier) | Random Forest tuned with GridSearchCV; top 20% on the Kaggle Titanic leaderboard | Python, Pandas, scikit-learn |
 | 📈 [**Linear Regression from Scratch**](https://github.com/Aryajambhore/Linear-regression-from-scratch) | Predicts used-car prices with hand-coded gradient descent, no ML libraries | Python, NumPy, Pandas |
-| 🌐 [**Portfolio Website**](https://portfolio-gamma-three-codobhubzl.vercel.app/) | My personal portfolio site | React, Vite, GSAP |
+| 🌐 [**Portfolio Website**](https://aryajambhore.dev) | My personal portfolio site | React, Vite, GSAP |
 
 ---
 
@@ -58,4 +58,4 @@ I like taking messy datasets, finding the story in them, and building models tha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-jambhore)
 [![Email](https://img.shields.io/badge/Email-aryajambhore07%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryajambhore07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_site-3D5AFE?style=flat&logo=githubpages&logoColor=white)](https://portfolio-gamma-three-codobhubzl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryajambhore.dev-3D5AFE?style=flat&logo=googlechrome&logoColor=white)](https://aryajambhore.dev)

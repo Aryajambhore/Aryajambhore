@@ -11,7 +11,7 @@ I like taking messy datasets, finding the story in them, and building models tha
 
 **Languages:** Python · SQL · JavaScript · HTML · CSS
 **Data & ML:** Pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Excel
-**Tools:** Jupyter Notebook · Streamlit · Git · GitHub · React
+**Tools:** Jupyter Notebook · Streamlit · React · Express · PostgreSQL · Git
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -28,9 +28,11 @@ I like taking messy datasets, finding the story in them, and building models tha
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🔢 [**Digit Recognizer App**](https://github.com/Aryajambhore/digit-classifier) | Draw a digit on a canvas and a trained ML model predicts the number | Python, Streamlit, ML |
-| 🚢 [**Titanic Survival Predictor**](https://github.com/Aryajambhore/titanic-ml-classifier) | Classification model predicting passenger survival from class, age, sex and fare | Python, Pandas, scikit-learn |
-| 📈 [**Linear Regression from Scratch**](https://github.com/Aryajambhore/Linear-regression-from-scratch) | Linear regression built without ML libraries to understand training and prediction | Python, NumPy, Pandas |
+| 🌱 [**Darwin SmartGrow**](https://github.com/Aryajambhore/SmartGrow) | IoT irrigation dashboard for a Darwin community garden: live sensor monitoring across four zones, water-use analytics, alerts and manual controls, with simulated or live PostgreSQL data | React, Tailwind, Recharts, Express, PostgreSQL |
+| 🔢 [**Handwritten Digit Recognizer**](https://github.com/Aryajambhore/digit-classifier) | Draw a digit in the browser and a model trained on MNIST predicts it live (~98% with an MLP) | Python, Streamlit, scikit-learn, OpenCV |
+| 📰 [**Fake News Detector**](https://github.com/Aryajambhore/Fake-News-detector) | Classifies news articles as real or fake using TF-IDF features and a Passive Aggressive Classifier (99.5% accuracy) | Python, scikit-learn, NLP |
+| 🚢 [**Titanic Survival Predictor**](https://github.com/Aryajambhore/titanic-ml-classifier) | Random Forest tuned with GridSearchCV; top 20% on the Kaggle Titanic leaderboard | Python, Pandas, scikit-learn |
+| 📈 [**Linear Regression from Scratch**](https://github.com/Aryajambhore/Linear-regression-from-scratch) | Predicts used-car prices with hand-coded gradient descent, no ML libraries | Python, NumPy, Pandas |
 | 🌐 [**Portfolio Website**](https://portfolio-gamma-three-codobhubzl.vercel.app/) | My personal portfolio site | React, Vite, GSAP |
 
 ---
@@ -56,4 +58,4 @@ I like taking messy datasets, finding the story in them, and building models tha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-jambhore)
 [![Email](https://img.shields.io/badge/Email-aryajambhore07%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryajambhore07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryajambhore.github.io-3D5AFE?style=flat&logo=githubpages&logoColor=white)](https://portfolio-gamma-three-codobhubzl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_site-3D5AFE?style=flat&logo=githubpages&logoColor=white)](https://portfolio-gamma-three-codobhubzl.vercel.app/)
